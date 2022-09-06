@@ -86,6 +86,15 @@ p {
     color: hsl(0, 0%, 95%);
 }
 
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
 @media only screen and (max-width: 999px) {
     .sedans, .suvs, .luxury {
         margin: 0 20rem;
@@ -110,3 +119,4 @@ p {
     }
 
 }
+
